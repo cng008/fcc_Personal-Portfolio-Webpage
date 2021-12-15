@@ -1,0 +1,27 @@
+#navbar {
+  position: fixed;
+  top: 0;
+  background-color: orange;
+  width: 100%;
+}
+
+#navbar ul {
+  text-decoration: none;
+  list-style-type: none;
+}
+
+#welcome-section {
+  height: 100vh;
+  width: 100vh;
+}
+
+#projects {
+}
+
+@media (max-width: 500px;) {
+  #projects {
+  }
+}
+
+#contact {
+}
